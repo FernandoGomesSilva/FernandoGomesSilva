@@ -2,7 +2,7 @@
 
 Meu nome é Fernando Gomes
 
-- Estudo no colegial no ensino médio
+- Estudo no colegial no Ensino Médio
 - E também estou estudando na Alura (https://cursos.alura.com.br/)
 - Ainda estou confuso com esse site
 - Gosto de Roblox, Uno e jogos de celular android
