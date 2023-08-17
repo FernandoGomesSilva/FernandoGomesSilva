@@ -1,16 +1,24 @@
-### Deus te ama
+### Deus te ama 🙏 
 
-<!--
-**FernandoGomesSilva/FernandoGomesSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Fernando Gomes
 
-Here are some ideas to get you started:
+- Estudo no colegial no ensino médio
+- E também estou estudando na Alura (https://cursos.alura.com.br/)
+- Ainda estou confuso com esse site
+- Gosto e Roblox, Uno e jogos de celular android
+- Vejo Pokemon
 
-- 🔭 I’m currently working on nada
-- 🌱 I’m currently learning tudo
-- 👯 I’m looking to collaborate on Mundo
-- 🤔 I’m looking for help with Professor
-- 💬 Ask me about Guerra da Ucrânia
-- 📫 How to reach me: Encontrando na rua
-- 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: Sou humano como você
--->
+  ### Para entrar em contato comigo, me encontre no mundo 🗺️
+
+  Para facilitar, moro no Brasil 🇧🇷
+
+![](https://media.tenor.com/oQY80ns4hMkAAAAd/anipoke-pokemon.gif)
+
+
+
+
+
+
+
+
+
