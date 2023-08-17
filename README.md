@@ -4,6 +4,7 @@ Meu nome é Fernando Gomes
 
 - Estudo no colegial no Ensino Médio
 - E também estou estudando na [Alura](https://alura.com.br)
+- Meu perfil no [P5.js](https://p5j.org/)
 - Ainda estou confuso com esse site
 - Gosto de Roblox, Uno e jogos de celular android
 - Eu vejo Pokemon
