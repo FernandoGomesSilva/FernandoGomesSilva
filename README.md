@@ -1,6 +1,6 @@
 ### Deus te ama 🙏 
 
-Meu nome é Fernando Gomes
+Meu nome é Fernando
 
 - Estudo no colegial no Ensino Médio
 - E também estou estudando na [Alura](https://alura.com.br)
